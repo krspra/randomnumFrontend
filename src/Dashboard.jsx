@@ -1,5 +1,5 @@
 import React, { useEffect, useState, useRef } from "react";
-import Dropdown from "./components/dropdown";
+import Dropdown from "./components/Dropdown";
 import io from "socket.io-client";
 import { Chart, registerables } from "chart.js";
 
